@@ -1,5 +1,7 @@
 # final-fantasy-6-bank-1-disassembly
 
+final fantasy 6 is released 28 years ago 
+
 
 ## final fantasy 6 bank 1 disassembly
 
